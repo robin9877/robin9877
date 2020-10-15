@@ -42,7 +42,7 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/robin9877">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robin9877&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robin9877&theme=buefy&layout=compact" />
 </a>
@@ -52,10 +52,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.bmoczt.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.bmoczt.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.robin9877.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/bmoczt/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/bmoczt_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-bmoczt@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [robin9877](https://github.com/robin9877)
