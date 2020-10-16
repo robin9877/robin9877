@@ -1,17 +1,6 @@
+
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/robin9877/count.svg" />
-</p>
 
-<!--
-### Visitors：<img src="https://github-visitor-badge.glitch.me/badge?page_id=robin9877"/>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=robin9877&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robin9877&hide=HTML&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**ZainCheung/robin9877** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**--!>
 <h2> Hey there! I'm robin.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
