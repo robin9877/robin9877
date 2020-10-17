@@ -47,8 +47,8 @@
 <br/>
 
 <a href="https://github.com/robin9877">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bmoczt&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmoczt&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robin9877&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robin9877&theme=buefy&layout=compact" />
 </a>
 
 <br/>
